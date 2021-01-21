@@ -1,7 +1,3 @@
-'use strict';
+const greeting = require("@ghingis/lib");
 
-module.exports = app;
-
-function app() {
-    // TODO
-}
+console.log(greeting("Sam"));
