@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/ghingis/lernaTest/compare/@ghingis/app@1.1.0...@ghingis/app@1.2.0) (2021-01-21)
+
+
+### Features
+
+* **@ghingis/app:** add @ghingis/lib as a dependency ([2c86212](https://github.com/ghingis/lernaTest/commit/2c8621247a0ff563d70d4c18eeff882d721fc09c))
+
+
+
+
+
 # 1.1.0 (2021-01-21)
 
 
