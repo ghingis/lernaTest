@@ -18,7 +18,6 @@
     "start": "node ."
   },
   "dependencies": {
-    "@ghingis/lib": "^1",
-    "lib": "^1.0.0"
+    "@ghingis/lib": "^1.0.0"
   }
 }
