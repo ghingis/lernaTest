@@ -1,7 +1,4 @@
-'use strict';
-
-module.exports = lib;
-
-function lib() {
-    // TODO
+function greeting(name) {
+  return "Hello, " + name + "!";
 }
+module.exports = greeting;
